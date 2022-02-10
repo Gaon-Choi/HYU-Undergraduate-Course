@@ -100,6 +100,15 @@ ___
 
 ## Senior (4th grade)
 
+### Spring Semester (prospective)
+- [COMPUTER SCIENCE Capstone PBL(AI-based malware analysis)(PBL4001)](https://github.com/Gaon-Choi/PBL4001)
+  - Prof. Eul Gyu Kim
+  - IC-PBL class(project-based course)
+
+
+- [Deep Learning Methods and Applications(ITE4053)](https://github.com/Gaon-Choi/ITE4053)
+  - Prof. Taehyun Kim
+
 ___
 # :satellite: HYU-EE
 > - Double major from 2020-2
@@ -130,7 +139,7 @@ ___
 - [SOC Design(ITE4003)](https://github.com/Gaon-Choi/ITE4003)
   - Prof. Jaemyung Lim
 
-
+___
 # :classical_building: General Elective Class
 - [AI+X: R-Py Computing(AIX0004)](https://github.com/Gaon-Choi/AIX0004)
   - Prof. Jeong Hwan Lee
