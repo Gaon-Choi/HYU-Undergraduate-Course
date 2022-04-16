@@ -41,7 +41,7 @@ ___
   - Prof. Eunok Paek
   - language: C
   - Linked list, Stack, Queue, Heap, BST, B-Tree, Graph, DFS/BFS, Hash
-  - focused on the right implementation and its simple application
+  - focused on the sophisticated implementations and their simple applications
 
 
 - [Object-Oriented Systems Design(ITE2037)](https://github.com/Gaon-Choi/ITE2037)
