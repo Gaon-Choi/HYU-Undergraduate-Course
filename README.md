@@ -100,10 +100,13 @@ ___
 
 ## Senior (4th grade)
 
-### Spring Semester (prospective)
+### Spring Semester
 - [COMPUTER SCIENCE Capstone PBL(AI-based malware analysis)(PBL4001)](https://github.com/Gaon-Choi/PBL4001)
   - Prof. Eul Gyu Kim
   - IC-PBL class(project-based course)
+  - Project: Malware Analysis
+  - Collaborator: Hyeonsu Kim, Gaon Choi
+  - LINK: [HERE](https://github.com/Gaon-Choi/Malware_Analysis)
 
 
 - [Deep Learning Methods and Applications(ITE4053)](https://github.com/Gaon-Choi/ITE4053)
@@ -127,9 +130,11 @@ ___
 
 ## Senior (4th grade)
 
-### Spring Semester (prospective)
+### Spring Semester
 - [Introduction to Artificial Intelligence(APA4055)](https://github.com/Gaon-Choi/APA4055)
   - Prof. Je Hyeong Hong
+  - Final Project: Facial Mask Detection
+  - LINK: [HERE](https://github.com/Gaon-Choi/Facial_Mask_Detection)
 
 
 - [Electronic Engineering Capstone PBL(Intro to AI Platform and Lab)(PBL4009)](https://github.com/Gaon-Choi/PBL4009)
