@@ -144,6 +144,10 @@ ___
 - [SOC Design(ITE4003)](https://github.com/Gaon-Choi/ITE4003)
   - Prof. Jaemyung Lim
 
+### Fall Semester
+- [Object-Oriented Programming(COM2018)](https://github.com/Gaon-Choi/COM2018)
+  - Prof. Hokeun Kim (TA: Yunsang Cho)
+
 ___
 # :classical_building: General Elective Class
 - [AI+X: R-Py Computing(AIX0004)](https://github.com/Gaon-Choi/AIX0004)
